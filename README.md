@@ -4,7 +4,7 @@
 
 Me chamo Lucas Cidral, tenho 22 anos. 
 
-Atualmente, estou cursando Engenharia de Software na UNC e sou apaixonado por desenvolvimento web, com um interesse especial em React/Next.js
+Sou formado em Engenharia de Software pela UNC e sou apaixonado por desenvolvimento web, com um interesse especial em React/Next.js
 
 ---
 
